@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title_activity_human_vs_human">HumanVsHuman</string>
+    <string name="admob_app_id">ca-app-pub-2258968561121455~8096729715</string>
+    <string name="smart_banner_main_top">ca-app-pub-2258968561121455/7975518205</string>
+    <string name="smart_banner_main_bottom">ca-app-pub-2258968561121455/8502842253</string>
+    <string name="smart_banner_hvh">ca-app-pub-2258968561121455/9217281839</string>
+    <string name="interstitial_full_screen_hvh">ca-app-pub-2258968561121455/5441564642</string>
+    <string name="interstitial_game">ca-app-pub-2258968561121455/9560062611</string>
+    <string name="interstitial_game_easy">ca-app-pub-2258968561121455/1390638996</string>
+</resources>
